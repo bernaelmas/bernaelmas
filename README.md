@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernaelmas&label=Profile%20views&color=0e75b6&style=flat" alt="bernaelmas" /> </p>
 
-- 🌱 I’m currently learning **C,JS**
+- 🌱 I’m currently learning **C and JavaScript**
 
 - 📫 How to reach me **bernaelms1368@gmail.com**
 
